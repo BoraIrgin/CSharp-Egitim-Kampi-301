@@ -1,0 +1,29 @@
+## Visual Studio Build and Output Folders
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio temporary and workspace files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+*.ide/
+
+## NuGet Packages
+*.nupkg
+packages/
+!packages/repositories.config
+
+## Database files
+*.mdf
+*.ldf
+*.ndf
+
+## OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

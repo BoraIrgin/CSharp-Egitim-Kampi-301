@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="C#Egitim301.EFProject/C#Egitim301.EFProject.csproj" Id="8dcb5490-bb79-45e4-87fd-f38a67f4837f" />
+  <Project Path="C#Egitim301BusinessLayer/C#Egitim301BusinessLayer.csproj" Id="5380643e-1766-45a3-a4fe-cf1b7fdb0a82" />
+  <Project Path="C#Egitim301DataAccesLayer/C#Egitim301DataAccesLayer.csproj" Id="903ad1f7-7de5-4fd1-89df-1231506763d4" />
+  <Project Path="C#Egitim301EntityLayer/C#Egitim301EntityLayer.csproj" Id="dcf97056-ab6f-4991-847d-b152b8c3a8e4" />
+  <Project Path="C#Egitim301PresentationLayer/C#Egitim301PresentationLayer.csproj" Id="87141c25-aab0-4493-a9e1-75b9c93c49ed" />
+</Solution>
